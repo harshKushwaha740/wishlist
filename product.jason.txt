@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Awesome Product 1",
+    "description": "This is a short description for product 1.",
+    "image": "https://via.placeholder.com/300x200",
+    "affiliate_link": "https://affiliate-link.com/product1"
+  },
+  {
+    "id": 2,
+    "title": "Cool Gadget 2",
+    "description": "Description of product 2 goes here.",
+    "image": "https://via.placeholder.com/300x200",
+    "affiliate_link": "https://affiliate-link.com/product2"
+  }
+]
